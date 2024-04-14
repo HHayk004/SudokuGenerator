@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/haykenberg/C++/SudokuGenerator/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/MyProject.dir/main.cpp.o -c /home/haykenberg/C++/SudokuGenerator/main.cpp",
+  "file": "/home/haykenberg/C++/SudokuGenerator/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/main.cpp.o"
+},
+{
+  "directory": "/home/haykenberg/C++/SudokuGenerator/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/MyProject.dir/SudokuGenerator.cpp.o -c /home/haykenberg/C++/SudokuGenerator/SudokuGenerator.cpp",
+  "file": "/home/haykenberg/C++/SudokuGenerator/SudokuGenerator.cpp",
+  "output": "CMakeFiles/MyProject.dir/SudokuGenerator.cpp.o"
+}
+]
