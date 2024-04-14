@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/MyProject.dir/main.cpp.o CMakeFiles/MyProject.dir/SudokuGenerator.cpp.o -o MyProject 

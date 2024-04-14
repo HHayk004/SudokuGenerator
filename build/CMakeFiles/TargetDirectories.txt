@@ -1,3 +1,0 @@
-/home/haykenberg/C++/SudokuGenerator/build/CMakeFiles/MyProject.dir
-/home/haykenberg/C++/SudokuGenerator/build/CMakeFiles/edit_cache.dir
-/home/haykenberg/C++/SudokuGenerator/build/CMakeFiles/rebuild_cache.dir
