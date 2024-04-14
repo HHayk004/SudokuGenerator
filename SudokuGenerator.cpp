@@ -34,16 +34,6 @@ std::vector<std::vector<int>> SudokuGenerator::getSudoku()
         shuffle_func[index](board);
     }
 
-    for (auto& vec : board)
-    {
-        for (auto elem : vec)
-        {
-            std::cout << elem << ' ';
-        }
-        std::cout << std::endl;
-    }
-    std::cout << std::endl;
-
     shuffle_func = {
         shuffleRows,
         shuffleCols,
